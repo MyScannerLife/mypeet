@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm06a0y:war">
+    <output-path>$PROJECT_DIR$/../社区宠物领养及养护知识分享管理系统/ssm06a0y/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm06a0y</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm06a0y.war">
+      <element id="artifact" artifact-name="ssm06a0y:war exploded" />
+    </root>
+  </artifact>
+</component>
